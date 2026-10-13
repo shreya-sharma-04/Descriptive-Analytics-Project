@@ -1,4 +1,5 @@
-Amazon Product Analysis Dashboard
+## Amazon Product Analysis Dashboard
+
 📌 Project Overview
 
 The Amazon Product Analysis Dashboard is an interactive data visualization project designed to analyze Amazon product data, evaluate pricing and discount strategies, and understand product distribution across different categories.
